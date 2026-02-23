@@ -17,4 +17,4 @@ This project detects whether the voice is Human or AI/Recorded using Machine Lea
 
 **How to Run**
 1. Install requirements
-2. Run main.py
+2. Run gui.py
